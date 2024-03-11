@@ -1,14 +1,14 @@
 # Hello, World! 👋
 
-I'm [Anurag Bhattarai], a passionate [computer science student] from [Nepal]. Welcome to my GitHub profile! 🚀
+I'm Anurag Bhattarai, a passionate computer science student from Nepal. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
-- 🔭 I’m currently an [undergraduate student].
+- 🔭 I’m currently an undergraduate student.
 - 🌱 I’m constantly learning and exploring new technologies.
-- 👯 I’m looking to collaborate on [Open Source Projects/Interesting Ideas].
-- 💬 Ask me about [I like reading books, working out, watching anime series and hangout with friends].
-- 📫 How to reach me: [abhattarai6s@semo.edu, anuragbhattarai31@gmail.com].
+- 👯 I’m looking to collaborate on Open Source Projects/Interesting Ideas.
+- 💬 Ask me about I like reading books, working out, watching anime series and hangout with friends.
+- 📫 How to reach me: abhattarai6s@semo.edu, anuragbhattarai31@gmail.com.
 
 ## Technologies & Tools
 
