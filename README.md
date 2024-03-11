@@ -12,7 +12,7 @@ I'm Anurag Bhattarai, a passionate computer science student from Nepal. Welcome 
 
 ## GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag&count_private=true&show_icons=true&theme=radical)](https://github.com/anuragbhattarai31)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag_Bhattarai&count_private=true&show_icons=true&theme=radical)](https://github.com/anuragbhattarai31)
 
 ## Connect with Me
 
